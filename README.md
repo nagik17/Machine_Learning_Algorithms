@@ -32,7 +32,7 @@ The Platt's calibration technique is a method for extracting probabilities P(Y=1
 used for classification post processing. (this was understood from a research paper called 'Probabilistic
 Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods' by John C.Platt)
 ## **Decision Trees:**
-![Capture]()
+![Capture](https://github.com/nagik17/Machine_Learning_Algorithms/blob/main/3.JPG)
 
 ## **Random Forest:**
 #### TASK 1: <br />
