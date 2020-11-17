@@ -21,7 +21,7 @@ Analysis and Results obtained:
 4. The 'dst' variable shows us that the distance between the weight vector obtained from task calculations and sklearn
 implementation is very less for each feature.
 ## ** SVM and Calibration Plots:**
-#### SVM model implementation and findings: <br />
+Findings: <br />
 the decision boundary overfits when regularization strength is high. Underfits when is too low for both the models,
 namely Logistic Regression and Support Vector machines. <br />
 Task 1 was about evaluating the values of calculated decision function with sklearn's in-built function
