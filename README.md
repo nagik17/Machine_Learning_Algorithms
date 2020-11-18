@@ -20,7 +20,7 @@ Analysis and Results obtained:
 3. Accuracy score of train was obtained to be 0.95224 or 95.224% and that of test obtained was 0.95 or 95% <br />
 4. The 'dst' variable shows us that the distance between the weight vector obtained from task calculations and sklearn
 implementation is very less for each feature.
-## ** SVM and Calibration Plots:**
+## **SVM and Calibration Plots:**
 Findings: <br />
 the decision boundary overfits when regularization strength is high. Underfits when is too low for both the models,
 namely Logistic Regression and Support Vector machines. <br />
